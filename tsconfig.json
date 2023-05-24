@@ -21,7 +21,7 @@
 
     "esModuleInterop": true
   },
-  "include": ["src"],
+  "include": ["src", "otros/App.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
 
